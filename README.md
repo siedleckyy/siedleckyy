@@ -22,11 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31q3725ebnfxn4duhfhj4jsc4dai)
-
-###
 
 <img src="https://raw.githubusercontent.com/siedleckyy/siedleckyy/output/snake.svg" alt="Snake animation" />
 
