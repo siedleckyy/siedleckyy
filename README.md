@@ -19,6 +19,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/siedleckyy/siedleckyy/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/siedleckyy/siedleckyy/blob/output/github-contribution-grid-snake.gif)
 
 ###
