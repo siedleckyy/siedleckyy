@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/+esm" height="40" alt="c# logo"  /> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_C_sharp.svg&psig=AOvVaw35-4jMULpdnEP_B6d7Nnpk&ust=1759997558671000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDXqPyTlJADFQAAAAAdAAAAABAE" height="40" alt="c# logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
