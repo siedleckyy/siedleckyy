@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/csharp-original.svg" height="40" alt="java logo"  /> 
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/+esm" height="40" alt="c# logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
