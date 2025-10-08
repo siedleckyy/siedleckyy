@@ -1,8 +1,8 @@
-<h1 align="left">Hi! I'm a developer from Poland.</h1>
+<h1 align="left">DevOps Engineer | Automating resilience, scaling innovation</h1>
 
 ###
 
-<p align="left">I’m a developer from Poland passionate about creating innovative solutions and exploring new technologies. I love collaborating on projects and contributing to open-source communities.</p>
+<p align="left">Driven by curiosity, fueled by code — I craft innovative solutions that push boundaries and challenge conventions. Whether it's bleeding-edge tech or open-source collaboration, I thrive in dynamic environments where ideas spark and evolve. I don’t just write code — I architect impact.</p>
 
 ###
 
