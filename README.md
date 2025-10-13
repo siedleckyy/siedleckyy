@@ -1,4 +1,4 @@
-<h1 align="left">siedleckyy // DevOps Engineer</h1>
+<h1 align="left">siedleckyy</h1>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
